@@ -137,13 +137,6 @@ const hii24 = {
 
 <br/>
 
-<!-- ====== METRICS LINE ====== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hii24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="wakatime" />
-</div>
-
-<br/>
-
 <!-- ====== FOOTER WAVE ====== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontAlignY=75&fontColor=ffffff&animation=twinkling" width="100%" alt="footer"/>
