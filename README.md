@@ -1,12 +1,12 @@
 <!-- ====== HEADER WAVE ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=hii24&fontSize=90&fontAlignY=38&desc=Code.%20Build.%20Break.%20Repeat.&descAlignY=58&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Serhii%20Valko&fontSize=78&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20React%20Native&descAlignY=58&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
 </div>
 
 <!-- ====== TYPING SVG ====== -->
 <div align="center">
   <a href="https://github.com/hii24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+hii24+%F0%9F%91%8B;Full-stack+Developer+%E2%9A%A1;JavaScript+%26+TypeScript+lover;Always+building+something+new+%F0%9F%9A%80;Coffee+%E2%86%92+Code+%E2%86%92+Coffee+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=780&lines=Senior+Frontend+Engineer+%E2%9A%A1;5%2B+years+shipping+React+%26+React+Native;FinTech+%C2%B7+HealthTech+%C2%B7+SaaS;AI-augmented+engineer+%E2%80%94+Claude%2C+MCP%2C+n8n;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA+%C2%B7+Open+to+work" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hii24&label=Profile+views&color=00f7ff&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/hii24?label=Followers&style=for-the-badge&color=00f7ff&labelColor=0d1117" alt="followers" />
-  <img src="https://img.shields.io/github/stars/hii24?label=Stars&style=for-the-badge&color=00f7ff&labelColor=0d1117" alt="stars" />
+  <a href="mailto:valkoserhii@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-00f7ff?style=for-the-badge&logo=briefcase&logoColor=0d1117&labelColor=0d1117" alt="open to work" /></a>
 </div>
 
 <br/>
@@ -25,21 +25,56 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```typescript
-const hii24 = {
-  role: "Full-Stack Developer",
-  stack: ["JavaScript", "TypeScript", "React", "Node.js"],
-  currentlyLearning: ["AI / LLMs", "System Design", "Cloud"],
-  passions: ["Clean Code", "Side Projects", "Open Source"],
-  funFact: "I debug with console.log and I'm not ashamed 🐛",
-  motto: "Build → Ship → Learn → Repeat"
+const serhii: SeniorFrontendEngineer = {
+  name: "Serhii Valko",
+  role: "Senior Frontend Engineer",
+  experience: "5+ years",
+  location: "Germany 🇩🇪 (Remote / Relocation)",
+  domains: ["FinTech", "HealthTech", "SaaS"],
+  stack: {
+    core: ["TypeScript", "JavaScript (ES6+)"],
+    web:  ["React", "Next.js", "Redux", "MobX", "Apollo"],
+    mobile: ["React Native"],
+    backend: ["Node.js", "Express", "GraphQL", "REST"],
+  },
+  aiTools: ["Claude Code", "Codex", "Cursor", "MCP", "n8n", "AI Agents"],
+  spokenLanguages: ["Ukrainian (Native)", "English (B1)", "German (A2)"],
+  motto: "Ship fast. Refactor smart. Measure everything.",
 };
 ```
 
-- 🔭 Working on **terraforce** & a few side projects
-- 🌱 Currently leveling up in **AI / LLM apps** and **TypeScript wizardry**
-- 💬 Ask me about **JavaScript, React, Node, automation bots**
-- ⚡ Fun fact: I genuinely think semicolons are optional ✨
-- 📫 Reach me on GitHub: [@hii24](https://github.com/hii24)
+- 🚀 **Senior Frontend Engineer** with **5+ years** of commercial experience
+- ⚡ Currently at **SolidWay** — building production interfaces & leading code reviews
+- 🤖 **AI-augmented daily driver**: Claude Code, MCP, n8n agents — code review & generation
+- 💬 Ask me about: **React performance, RN migrations, state architecture, CI/CD**
+- 📫 Reach me: **valkoserhii@gmail.com** · [@valko_s](https://t.me/valko_s) on Telegram
+
+<br/>
+
+<!-- ====== ACHIEVEMENTS ====== -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Impact Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Performance
+- ⏱️ **Cold-start −25%** via React Native version migration
+- 🚀 **Time-to-Interactive +40%** with memoization, lazy loading & code splitting
+- 📦 **Deploy time 15 min → < 5 min** via CI/CD pipeline rework
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture
+- 🧩 **UI duplication −30%** — reusable component library across 3 squads
+- 🧹 **State boilerplate −40%** — Redux → MobX refactor
+- ♻️ **10+ screens** powered by extracted custom hook library
+- 👀 **Review cycle −50%** — led PR standards for 4-engineer team
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -48,22 +83,45 @@ const hii24 = {
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+### Core Languages
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis" />
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql" />
 
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux" />
+### DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jest" />
 
-### Editors & Design
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm" />
+### AI & Automation (daily driver)
+<img src="https://skillicons.dev/icons?i=anthropic,openai,vscode,figma,postman" />
 
 </div>
+
+<br/>
+
+<!-- ====== EXPERIENCE TIMELINE ====== -->
+## <img src="https://media.giphy.com/media/cjCAsqMUscIyVABjS9/giphy.gif" width="28"> Career Timeline
+
+```mermaid
+timeline
+    title Frontend Engineering Journey (5+ years)
+    2021 : React Native Developer @ Jauntsoft
+         : Real-time chat for 10K+ DAU
+         : Enterprise data dashboards
+    2022 : React Native Developer @ TenThousand
+         : Medically compliant heart-rate app
+         : Redux → MobX refactor (-40% boilerplate)
+         : RN migration (-25% cold-start)
+    2023 : React Developer @ SolidWay
+         : Reusable component library across 3 squads
+         : CI/CD: 15min → <5min deploys
+         : TTI +40%, review cycle −50%
+    2026 : Open to Senior Frontend roles
+         : Germany 🇩🇪 / Remote / Relocation
+```
 
 <br/>
 
@@ -127,21 +185,27 @@ const hii24 = {
 ## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
-  <a href="https://github.com/hii24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://discord.com/users/your_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your_username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/your_username"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+[![Email](https://img.shields.io/badge/valkoserhii@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valkoserhii@gmail.com)
+[![Telegram](https://img.shields.io/badge/@valko__s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/valko_s)
+[![LinkedIn](https://img.shields.io/badge/Serhii%20Valko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/serhii-valko-4b25021b5)
+[![GitHub](https://img.shields.io/badge/hii24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hii24)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>💼 <b>Open to Senior Frontend opportunities</b> — Germany 🇩🇪 / EU Remote / Relocation considered</i>
 </div>
 
 <br/>
 
 <!-- ====== FOOTER WAVE ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontAlignY=75&fontColor=ffffff&animation=twinkling" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=22&fontAlignY=75&fontColor=ffffff&animation=twinkling" width="100%" alt="footer"/>
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/hii24">hii24</a> with love</i>
+  <i>⭐ Built with ❤️ by <a href="https://github.com/hii24">Serhii Valko</a></i>
 </div>
