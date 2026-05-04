@@ -105,23 +105,70 @@ const serhii: SeniorFrontendEngineer = {
 <!-- ====== EXPERIENCE TIMELINE ====== -->
 ## <img src="https://media.giphy.com/media/cjCAsqMUscIyVABjS9/giphy.gif" width="28"> Career Timeline
 
-```mermaid
-timeline
-    title Frontend Engineering Journey (5+ years)
-    2021 : React Native Developer @ Jauntsoft
-         : Real-time chat for 10K+ DAU
-         : Enterprise data dashboards
-    2022 : React Native Developer @ TenThousand
-         : Medically compliant heart-rate app
-         : Redux → MobX refactor (-40% boilerplate)
-         : RN migration (-25% cold-start)
-    2023 : React Developer @ SolidWay
-         : Reusable component library across 3 squads
-         : CI/CD: 15min → <5min deploys
-         : TTI +40%, review cycle −50%
-    2026 : Open to Senior Frontend roles
-         : Germany 🇩🇪 / Remote / Relocation
-```
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+#### 🚀 2021 — 2022
+**React Native Developer**  
+`@ Jauntsoft` · Kyiv
+
+<br/>
+
+🗨️ Real-time chat<br/>SDK · push · **10K+ DAU**
+
+📊 Enterprise data<br/>dashboards & charts
+
+💼 Cost estimation platform<br/>used by **50+ companies**
+
+</td>
+<td width="25%" align="center" valign="top">
+
+#### 💚 2022 — 2023
+**React Native Developer**  
+`@ TenThousand` · Kyiv
+
+<br/>
+
+❤️ Medically compliant<br/>heart-rate tracking app
+
+⚡ RN migration<br/>cold-start **−25%**
+
+🧹 Redux → MobX<br/>boilerplate **−40%**
+
+</td>
+<td width="25%" align="center" valign="top">
+
+#### ⚛️ 2023 — Present
+**React Developer**  
+`@ SolidWay` · Remote
+
+<br/>
+
+🧩 Component library<br/>across **3 squads**
+
+🚀 CI/CD pipeline<br/>**15min → < 5min**
+
+📈 TTI **+40%** · review cycle **−50%**
+
+</td>
+<td width="25%" align="center" valign="top">
+
+#### 🇩🇪 2026 — Next
+**Senior Frontend Engineer**  
+`Open to Work`
+
+<br/>
+
+🌍 Germany / EU Remote<br/>· Relocation
+
+🤖 AI-augmented<br/>engineering
+
+🎯 FinTech · HealthTech<br/>· SaaS
+
+</td>
+</tr>
+</table>
 
 <br/>
 
