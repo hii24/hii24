@@ -175,39 +175,98 @@ const serhii: SeniorFrontendEngineer = {
 <!-- ====== FEATURED PROJECTS ====== -->
 ## <img src="https://media.giphy.com/media/RJVw2XJjpyRDlPPzjE/giphy.gif" width="28"> Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 [TerraForce](https://github.com/hii24/terraforce)
+> Interactive web experience exploring game-like UX patterns
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [TerraForceApp](https://github.com/hii24/TerraForceApp)
+> Mobile companion built with React Native + TypeScript
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![ReactNative](https://img.shields.io/badge/RN-61DAFB?style=flat-square&logo=react&logoColor=000)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [MindMap](https://github.com/hii24/MindMap)
+> Visual idea-mapping tool with drag-n-drop nodes
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Canvas](https://img.shields.io/badge/Canvas-FF6F61?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [github-search-app](https://github.com/hii24/github-search-app)
+> GitHub user discovery with REST API & responsive UI
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000) ![REST](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [HeliumSoft](https://github.com/hii24/HeliumSoft)
+> Software cost estimation platform — production-tested
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [botForPrompt](https://github.com/hii24/botForPrompt)
+> AI prompt-engineering bot for automated workflows
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/hii24/terraforce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=terraforce&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hii24/TerraForceApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=TerraForceApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/hii24/MindMap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=MindMap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hii24/github-search-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=github-search-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/hii24/HeliumSoft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=HeliumSoft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/hii24/botForPrompt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=botForPrompt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-</a>
-
+  <a href="https://github.com/hii24?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
 
 <!-- ====== GITHUB STATS ====== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub & Engineering Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hii24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hii24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=8" />
+
+| 📦 Public Repos | 💼 Years Experience | 🌐 Domains Shipped | 🚀 Production Apps |
+|:---:|:---:|:---:|:---:|
+| **28+** | **5+** | **3** | **10+** |
+| _Side projects_ | _React / RN_ | _FinTech · HealthTech · SaaS_ | _Across 3 companies_ |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=hii24&cc=0d1117&tc=00f7ff&ic=00f7ff&bc=00f7ff" alt="github stats" />
+</div>
+
+<div align="center">
+
+### 🎨 Languages I write daily
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 </div>
 
 <div align="center">
