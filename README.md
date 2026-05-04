@@ -1,12 +1,14 @@
 <!-- ====== HEADER WAVE ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Serhii%20Valko&fontSize=78&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20React%20Native&descAlignY=58&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Serhii%20Valko&fontSize=78&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20React%20Native&descAlignY=60&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
 </div>
 
-<!-- ====== TYPING SVG ====== -->
+<br/>
+
+<!-- ====== TAGLINE ====== -->
 <div align="center">
   <a href="https://github.com/hii24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=780&lines=Senior+Frontend+Engineer+%E2%9A%A1;5%2B+years+shipping+React+%26+React+Native;FinTech+%C2%B7+HealthTech+%C2%B7+SaaS;AI-augmented+engineer+%E2%80%94+Claude%2C+MCP%2C+n8n;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA+%C2%B7+Open+to+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=820&height=40&lines=Building+performant+React+%26+React+Native+apps;FinTech+%E2%80%A2+HealthTech+%E2%80%A2+SaaS;AI-augmented+engineer+%E2%80%A2+Claude+%E2%80%A2+MCP+%E2%80%A2+n8n;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="tagline" />
   </a>
 </div>
 
@@ -25,11 +27,11 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```typescript
-const serhii: SeniorFrontendEngineer = {
+const serhii = {
   name: "Serhii Valko",
-  role: "Senior Frontend Engineer",
-  experience: "5+ years",
-  location: "Germany 🇩🇪 (Remote / Relocation)",
+  role: "Frontend Engineer",
+  experience: "5+ years in production",
+  location: "Germany 🇩🇪 · Remote / Relocation",
   domains: ["FinTech", "HealthTech", "SaaS"],
   stack: {
     core: ["TypeScript", "JavaScript (ES6+)"],
@@ -38,16 +40,15 @@ const serhii: SeniorFrontendEngineer = {
     backend: ["Node.js", "Express", "GraphQL", "REST"],
   },
   aiTools: ["Claude Code", "Codex", "Cursor", "MCP", "n8n", "AI Agents"],
-  spokenLanguages: ["Ukrainian (Native)", "English (B1)", "German (A2)"],
+  languages: ["Ukrainian (Native)", "English (B1)", "German (A2)"],
   motto: "Ship fast. Refactor smart. Measure everything.",
 };
 ```
 
-- 🚀 **Senior Frontend Engineer** with **5+ years** of commercial experience
-- ⚡ Currently at **SolidWay** — building production interfaces & leading code reviews
-- 🤖 **AI-augmented daily driver**: Claude Code, MCP, n8n agents — code review & generation
+- ⚡ Currently @ **SolidWay** — building production interfaces & leading code reviews
+- 🤖 **AI-augmented workflow**: Claude Code, MCP, n8n agents — daily driver since 2024
 - 💬 Ask me about: **React performance, RN migrations, state architecture, CI/CD**
-- 📫 Reach me: **valkoserhii@gmail.com** · [@valko_s](https://t.me/valko_s) on Telegram
+- 📫 Reach out: **valkoserhii@gmail.com** · [@valko_s](https://t.me/valko_s) on Telegram
 
 <br/>
 
@@ -155,7 +156,7 @@ const serhii: SeniorFrontendEngineer = {
 <td width="25%" align="center" valign="top">
 
 #### 🇩🇪 2026 — Next
-**Senior Frontend Engineer**  
+**Frontend Engineer**  
 `Open to Work`
 
 <br/>
@@ -328,7 +329,7 @@ React + TS sandbox<br/>experimenting with<br/>game-like UX in web
 <td width="33%" align="center" valign="top">
 
 ### 🎯 Looking For
-**Senior Frontend role**<br/>EU / Germany / Remote<br/>FinTech · HealthTech · AI
+**Frontend role**<br/>EU / Germany / Remote<br/>FinTech · HealthTech · AI
 
 </td>
 </tr>
@@ -360,7 +361,7 @@ React + TS sandbox<br/>experimenting with<br/>game-like UX in web
 <br/>
 
 <div align="center">
-  <i>💼 <b>Open to Senior Frontend opportunities</b> — Germany 🇩🇪 / EU Remote / Relocation considered</i>
+  <i>💼 <b>Open to Frontend opportunities</b> — Germany 🇩🇪 / EU Remote / Relocation considered</i>
 </div>
 
 <br/>
