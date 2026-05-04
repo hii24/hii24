@@ -172,6 +172,36 @@ const serhii: SeniorFrontendEngineer = {
 
 <br/>
 
+<!-- ====== FEATURED PROJECTS ====== -->
+## <img src="https://media.giphy.com/media/RJVw2XJjpyRDlPPzjE/giphy.gif" width="28"> Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/hii24/terraforce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=terraforce&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/hii24/TerraForceApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=TerraForceApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/hii24/MindMap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=MindMap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/hii24/github-search-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=github-search-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/hii24/HeliumSoft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=HeliumSoft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/hii24/botForPrompt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hii24&repo=botForPrompt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
 <!-- ====== GITHUB STATS ====== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
 
@@ -180,28 +210,40 @@ const serhii: SeniorFrontendEngineer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hii24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hii24&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff" />
+  <sub>📌 Most of my production work lives in private corporate repos (FinTech / HealthTech / SaaS NDAs). Public stats reflect side projects only.</sub>
 </div>
 
 <br/>
 
-<!-- ====== ACTIVITY GRAPH ====== -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Activity Graph
+<!-- ====== AI WORKFLOW ====== -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> AI-Augmented Workflow
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Daily Drivers
+- **Claude Code** — main pair-programmer
+- **OpenAI Codex** — code generation & translation
+- **Cursor** — in-editor agent flows
+- **GitHub Copilot** — inline completions
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Automation Stack
+- **MCP** servers — custom tool integrations
+- **n8n** — automated workflows & cron jobs
+- **AI Agents** — multi-step autonomous tasks
+- **AI-assisted reviews** — PR analysis & refactor
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hii24&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
-<br/>
-
-<!-- ====== TROPHIES ====== -->
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="28"> Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hii24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <sub>Early adopter — using AI agents in production engineering since 2024</sub>
 </div>
 
 <br/>
