@@ -248,16 +248,32 @@ const serhii: SeniorFrontendEngineer = {
 
 <br/>
 
-<!-- ====== SNAKE ====== -->
-## <img src="https://media.giphy.com/media/iiyrGTDVRVOakk4haS/giphy.gif" width="28"> Contribution Snake
+<!-- ====== CURRENTLY ====== -->
+## <img src="https://media.giphy.com/media/iiyrGTDVRVOakk4haS/giphy.gif" width="28"> What I'm Up To
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hii24/hii24/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hii24/hii24/output/github-contribution-grid-snake.svg" />
-    <img alt="github snake" src="https://raw.githubusercontent.com/hii24/hii24/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🔭 Building
+**TerraForce**  
+React + TS sandbox<br/>experimenting with<br/>game-like UX in web
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🌱 Learning
+**System Design**<br/>+ Advanced TS Patterns<br/>+ German 🇩🇪 (A2 → B1)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎯 Looking For
+**Senior Frontend role**<br/>EU / Germany / Remote<br/>FinTech · HealthTech · AI
+
+</td>
+</tr>
+</table>
 
 <br/>
 
