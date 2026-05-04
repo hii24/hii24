@@ -203,7 +203,7 @@ Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**
 ### 🗣️ Spoken Languages
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-005BBB?style=for-the-badge&labelColor=FFD500)
 ![English](https://img.shields.io/badge/English-B1-012169?style=for-the-badge&logo=cambridge&logoColor=fff)
-![German](https://img.shields.io/badge/German-A2-000?style=for-the-badge&labelColor=DD0000)
+![German](https://img.shields.io/badge/German-B1-000?style=for-the-badge&labelColor=DD0000)
 
 </div>
 
@@ -429,7 +429,7 @@ React + TS sandbox<br/>experimenting with<br/>game-like UX in web
 <td width="33%" align="center" valign="top">
 
 ### 🌱 Learning
-**System Design**<br/>+ Advanced TS Patterns<br/>+ German 🇩🇪 (A2 → B1)
+**System Design**<br/>+ Advanced TS Patterns<br/>+ German 🇩🇪 (B1 → B2)
 
 </td>
 <td width="33%" align="center" valign="top">
