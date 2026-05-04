@@ -26,29 +26,35 @@
 <!-- ====== ABOUT ME ====== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```typescript
-const serhii = {
-  name: "Serhii Valko",
-  role: "Frontend Engineer",
-  experience: "5+ years in production",
-  location: "Germany 🇩🇪 · Remote / Relocation",
-  domains: ["FinTech", "HealthTech", "SaaS"],
-  stack: {
-    core: ["TypeScript", "JavaScript (ES6+)"],
-    web:  ["React", "Next.js", "Redux", "MobX", "Apollo"],
-    mobile: ["React Native"],
-    backend: ["Node.js", "Express", "GraphQL", "REST"],
-  },
-  aiTools: ["Claude Code", "Codex", "Cursor", "MCP", "n8n", "AI Agents"],
-  languages: ["Ukrainian (Native)", "English (B1)", "German (A2)"],
-  motto: "Ship fast. Refactor smart. Measure everything.",
-};
-```
+> **"Build → Ship → Learn → Repeat."**  
+> Pragmatic frontend engineer who ships, measures, then optimizes — not the other way around.
 
-- ⚡ Currently @ **SolidWay** — building production interfaces & leading code reviews
-- 🤖 **AI-augmented workflow**: Claude Code, MCP, n8n agents — daily driver since 2024
-- 💬 Ask me about: **React performance, RN migrations, state architecture, CI/CD**
-- 📫 Reach out: **valkoserhii@gmail.com** · [@valko_s](https://t.me/valko_s) on Telegram
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🎯 What I Do
+Build production-grade web & mobile apps with **React** and **React Native** — from pixel-perfect UI to architecture, performance & CI/CD.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🤖 How I Work
+**AI-augmented daily** — Claude Code, MCP, n8n agents in my pipeline since 2024. Faster shipping without sacrificing review quality.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🌍 Where
+Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**. Open to **remote / relocation**.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <sub>⚡ Currently @ <b>SolidWay</b> · 💬 Ask me about React performance, RN migrations, state architecture, CI/CD · 📫 <a href="mailto:valkoserhii@gmail.com">valkoserhii@gmail.com</a> · <a href="https://t.me/valko_s">@valko_s</a></sub>
+</div>
 
 <br/>
 
@@ -80,24 +86,124 @@ const serhii = {
 <br/>
 
 <!-- ====== TECH STACK ====== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack & Tools
 
 <div align="center">
 
-### Core Languages
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass" />
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
 
-### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
+### ⚛️ Frontend Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=fff)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000)
 
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql" />
+### 🧠 State Management & Forms
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999?style=for-the-badge&logo=reduxsaga&logoColor=fff)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=fff)
+![Zustand](https://img.shields.io/badge/Zustand-2D2D2D?style=for-the-badge&logo=react&logoColor=fff)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=fff)
+![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge&logo=formik&logoColor=fff)
 
-### DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jest" />
+### 🎨 Styling & UI Libraries
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=fff)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
 
-### AI & Automation (daily driver)
-<img src="https://skillicons.dev/icons?i=anthropic,openai,vscode,figma,postman" />
+### 🌐 API · Networking · Real-time
+![REST](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
+![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=fff)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)
+![SWR](https://img.shields.io/badge/SWR-000?style=for-the-badge&logo=swr&logoColor=fff)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=fff)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=fff)
+
+### 🛠️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+
+### 🧪 Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000)
+
+### 🚀 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
+
+### 📱 Mobile-Specific
+![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=fff)
+![Fastlane](https://img.shields.io/badge/Fastlane-94F5D2?style=for-the-badge&logo=fastlane&logoColor=000)
+![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=for-the-badge&logo=react&logoColor=fff)
+![CodePush](https://img.shields.io/badge/CodePush-2E8AE6?style=for-the-badge&logo=microsoft&logoColor=fff)
+![App%20Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=fff)
+![Play%20Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=fff)
+
+### 🎨 Design & Collaboration
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Zeplin](https://img.shields.io/badge/Zeplin-FDBD39?style=for-the-badge&logo=zeplin&logoColor=000)
+![Avocode](https://img.shields.io/badge/Avocode-3C8DBC?style=for-the-badge&logo=avocode&logoColor=fff)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
+
+### 🤖 AI & Automation (daily driver)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=fff)
+![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=fff)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=fff)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=anthropic&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=fff)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=fff)
+
+### 🧰 Tooling & Editors
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple&logoColor=fff)
+
+### 🗣️ Spoken Languages
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-005BBB?style=for-the-badge&labelColor=FFD500)
+![English](https://img.shields.io/badge/English-B1-012169?style=for-the-badge&logo=cambridge&logoColor=fff)
+![German](https://img.shields.io/badge/German-A2-000?style=for-the-badge&labelColor=DD0000)
 
 </div>
 
