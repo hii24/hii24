@@ -279,8 +279,68 @@ Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**
 
 <br/>
 
-<!-- ====== FEATURED PROJECTS ====== -->
-## <img src="https://media.giphy.com/media/RJVw2XJjpyRDlPPzjE/giphy.gif" width="28"> Featured Projects
+<!-- ====== OPEN SOURCE PROJECTS ====== -->
+## <img src="https://media.giphy.com/media/RJVw2XJjpyRDlPPzjE/giphy.gif" width="28"> Open-Source Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [ai-pr-reviewer](https://github.com/hii24/ai-pr-reviewer)
+> _AI Pull Request reviewer · Claude + n8n_
+
+**Senior-level code review on every PR within 30 seconds.** Webhook-driven n8n workflow that fetches PR diffs, runs them through **Claude Sonnet 4.6** with a tuned reviewer prompt, and posts inline comments + risk score (0-10). Cut my team's review cycle by 50% — humans now focus on architecture, not null checks.
+
+![Claude](https://img.shields.io/badge/Claude_4.6-D97757?style=flat-square&logo=anthropic&logoColor=fff) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff) ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=fff) ![Webhook](https://img.shields.io/badge/Webhook-FF6B35?style=flat-square)
+
+**Highlights:** HMAC signature verification · Risk-score gating · Configurable rule packs · 5x cost reduction via prompt caching
+
+</td>
+<td width="50%" valign="top">
+
+### 🪞 [mcp-react-devtools](https://github.com/hii24/mcp-react-devtools)
+> _MCP server exposing React internals to Claude_
+
+**Stop screenshotting your component tree to debug bugs.** MCP server + in-app agent that lets Claude Code query your running React app — component tree, props, hooks, store state. v0.4 added **time-travel state diffs** (`react_diff_state`) and Strict Mode-aware re-render counting.
+
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=fff) ![CDP](https://img.shields.io/badge/CDP-4285F4?style=flat-square)
+
+**Highlights:** Fiber introspection · 5 MCP tools · Localhost-only safety · Redux/Zustand/MobX adapters
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [rn-perf-toolkit](https://github.com/hii24/rn-perf-toolkit)
+> _RN profiler · leak detector · bundle analyzer_
+
+**The toolkit I wished existed when migrating a HealthTech RN app to 0.72.** Single CLI: cold-start tracer with phase-level breakdown, heap-diff leak detector (caught an 8MB/session leak in production), Metro bundle analyzer with treemap. Used internally to ship the 25% cold-start reduction on my CV.
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000) ![Hermes](https://img.shields.io/badge/Hermes-7B2CBF?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![CLI](https://img.shields.io/badge/CLI-181717?style=flat-square&logo=gnubash&logoColor=fff) ![Metro](https://img.shields.io/badge/Metro-EF4242?style=flat-square)
+
+**Highlights:** Cold-start tracer · Heap diff engine · Metro treemap · Plugin probes API
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [design-system-starter](https://github.com/hii24/design-system-starter)
+> _Production DS template · everything pre-wired_
+
+**Extracted after building component libraries for 3 different teams.** React + TS + Vite + Storybook 8 + Chromatic visual regression + Playwright + per-component tree-shaking + token-driven theming + dark mode without FOUC + auto-generated docs + NPM publish pipeline. Skip the boilerplate week — start with components.
+
+![React 18](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff) ![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=flat-square&logo=chromatic&logoColor=fff)
+
+**Highlights:** Token theming · Dark mode (no FOUC) · Per-component tree-shaking · Visual regression · A11y-first
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ====== PERSONAL LABS ====== -->
+## <img src="https://media.giphy.com/media/3oKIPnYHsIxakI8oCw/giphy.gif" width="28"> Personal Labs & Sandboxes
 
 <table>
 <tr>
