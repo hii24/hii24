@@ -339,6 +339,92 @@ Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**
 
 <br/>
 
+<!-- ====== SIDE PROJECTS & TOOLS ====== -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Side Projects & Tools
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ [react-todo-pro](https://github.com/hii24/react-todo-pro)
+> _Offline-first PWA · 2021_
+
+My first serious React+TS project — drag-drop todos, **offline-first via IndexedDB**, dark mode, undo/redo with bounded history, full keyboard a11y. The patterns I extracted (the `useUndoableState` hook, focus-trap modal, schema validation) ended up reused across production projects.
+
+![React](https://img.shields.io/badge/React_17-61DAFB?style=flat-square&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=fff) ![IDB](https://img.shields.io/badge/IndexedDB-FF9800?style=flat-square)
+
+**Highlights:** useUndoableState hook · IDB + localStorage fallback · Drag-drop · A11y-first
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [crypto-portfolio](https://github.com/hii24/crypto-portfolio)
+> _FinTech-flavored holdings tracker · 2021_
+
+The project that got me into **financial-domain UX** before I worked in real FinTech. Tracks crypto holdings with live prices (CoinGecko), historical charts, P&L. **Decimal.js** for currency math (no float rounding errors), Redux Toolkit + RTK Query for caching.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=fff) ![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square) ![Decimal.js](https://img.shields.io/badge/Decimal.js-2962FF?style=flat-square) ![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC647?style=flat-square)
+
+**Highlights:** Decimal money math · RTK Query caching · Local-only persistence · Sortable tables
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💪 [rn-workout-companion](https://github.com/hii24/rn-workout-companion)
+> _RN fitness tracker · 2022_
+
+Built right before joining a HealthTech team. Real users (me + 2 friends) for 8 months. **Background-safe rest timers**, 1RM estimators (Epley/Brzycki blend), weekly volume by muscle group, Redux + redux-persist. Patterns from this app got reused on my next job.
+
+![React Native](https://img.shields.io/badge/RN_0.68-61DAFB?style=flat-square&logo=react&logoColor=000) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff) ![SVG Charts](https://img.shields.io/badge/SVG_Charts-FF6F61?style=flat-square) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-3178C6?style=flat-square) ![Haptics](https://img.shields.io/badge/Haptics-7B2CBF?style=flat-square)
+
+**Highlights:** Background-safe timer hook · 1RM math · Schema migrations · Offline-first
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [next-mdx-blog](https://github.com/hii24/next-mdx-blog)
+> _Static blog template · 2022-23_
+
+The blog template I used to publish tech notes through 2022-23. **Zero-config Next.js + MDX** with Shiki syntax highlighting (build-time, zero runtime cost), auto-generated RSS, dark mode, OG image generation. Posts are just `.mdx` files — git is the CMS.
+
+![Next.js](https://img.shields.io/badge/Next.js_13-000?style=flat-square&logo=nextdotjs&logoColor=fff) ![MDX](https://img.shields.io/badge/MDX_2-1B1F24?style=flat-square&logo=mdx&logoColor=fff) ![Shiki](https://img.shields.io/badge/Shiki-7B2CBF?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+
+**Highlights:** Build-time syntax highlighting · RSS feed · Reading time · OG images per post
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦠 [conway-life](https://github.com/hii24/conway-life)
+> _Game of Life · 60fps @ 100k cells · 2023_
+
+Sandbox project for animation-loop patterns and bit-packed grids. **1 bit per cell** in `Uint32Array` (8x memory reduction), Web Worker offload for 1000×1000 grids, RLE pattern parser (Golly-compatible). The optimization journey from naive `boolean[][]` → bit-packed worker is documented in the README.
+
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Canvas](https://img.shields.io/badge/Canvas-FF6F61?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+
+**Highlights:** Bit-packed grid · Web Worker · RLE parser · 60fps @ 100k cells
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [dotfiles](https://github.com/hii24/dotfiles)
+> _My terminal & editor configs · 2022→present_
+
+Battle-tested configs across macOS work machines since 2022. **zsh** with lazy-loaded nvm (sub-50ms shell startup), **vim** with ~30 plugins, **git aliases** I actually use (`gl`, `wip`, `fixup`, `prune-merged`), **macOS sane defaults** (faster keys, screenshot folder, no `.DS_Store` on network volumes).
+
+![zsh](https://img.shields.io/badge/zsh-181717?style=flat-square&logo=gnubash&logoColor=fff) ![vim](https://img.shields.io/badge/vim-019733?style=flat-square&logo=vim&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=fff) ![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=fff)
+
+**Highlights:** Lazy nvm · One-shot install.sh · Git aliases · macOS defaults
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ====== PERSONAL LABS ====== -->
 ## <img src="https://media.giphy.com/media/3oKIPnYHsIxakI8oCw/giphy.gif" width="28"> Personal Labs & Sandboxes
 
