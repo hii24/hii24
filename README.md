@@ -339,6 +339,58 @@ Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**
 
 <br/>
 
+<!-- ====== MINI GAMES ====== -->
+## <img src="https://media.giphy.com/media/sULKEgDMX8pyoLrtem/giphy.gif" width="28"> Mini Games & Weekend Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 [snake-game](https://github.com/hii24/snake-game)
+> _Vanilla JS · Canvas · 2021_
+
+Classic Snake. **No build tools, no React** — just `index.html`, `style.css`, `game.js`. Built to feel old-school. Arrow keys, score in localStorage, dark theme.
+
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Canvas](https://img.shields.io/badge/Canvas-FF6F61?style=flat-square) ![No_Build](https://img.shields.io/badge/no_build-181717?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [tic-tac-toe](https://github.com/hii24/tic-tac-toe)
+> _React + minimax AI · 2021_
+
+2-player or vs **unbeatable minimax AI**. Built in a weekend to drill `useState` + `useReducer`. Best you can do is draw.
+
+![React](https://img.shields.io/badge/React_17-61DAFB?style=flat-square&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Minimax](https://img.shields.io/badge/Minimax_AI-7B2CBF?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟩 [wordle-clone](https://github.com/hii24/wordle-clone)
+> _Wordle was viral · 2022_
+
+Built when Wordle was everywhere. Pure React + TS clone, **200-word daily list** picked deterministically by date. Surprisingly tricky: handling duplicate letters in `checkGuess` correctly.
+
+![React](https://img.shields.io/badge/React_17-61DAFB?style=flat-square&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Daily_Word](https://img.shields.io/badge/daily_word-538D4E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍅 [cli-pomodoro](https://github.com/hii24/cli-pomodoro)
+> _Terminal pomodoro · TUI · 2022_
+
+Terminal pomodoro timer with **TUI (ink + React)**, OS notifications, session stats. Long-break logic after 4 cycles. Tracks history in lowdb.
+
+![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=fff) ![ink](https://img.shields.io/badge/ink-000?style=flat-square) ![lowdb](https://img.shields.io/badge/lowdb-F7DF1E?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ====== SIDE PROJECTS & TOOLS ====== -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Side Projects & Tools
 
