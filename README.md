@@ -286,18 +286,26 @@ Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 [TerraForce](https://github.com/hii24/terraforce)
-> Interactive web experience exploring game-like UX patterns
+### 🛰️ [TerraForce API](https://github.com/hii24/terraforce)
+> _REST API sandbox · Express + MongoDB_
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+Personal **backend lab** where I prototype auth flows, validation middleware, and cloud-deploy workflows that later land in production code. Started as a CRUD API and slowly grew into a playground for resilient error handling and Procfile-based Heroku deploys.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=fff) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=fff)
+
+**Highlights:** User CRUD · Mongoose models · Error middleware · Cloud-ready deploys
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 [TerraForceApp](https://github.com/hii24/TerraForceApp)
-> Mobile companion built with React Native + TypeScript
+### 📱 [TerraForce Mobile](https://github.com/hii24/TerraForceApp)
+> _RN client · native module bridges_
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![ReactNative](https://img.shields.io/badge/RN-61DAFB?style=flat-square&logo=react&logoColor=000)
+React Native client paired with the TerraForce API. Iteratively explored **native-module bridges in Java and Objective-C** for performance-critical paths beyond pure JS — the boundary where mobile dev gets actually interesting.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff) ![Objective-C](https://img.shields.io/badge/Obj--C-438EFF?style=flat-square&logo=apple&logoColor=fff) ![Metro](https://img.shields.io/badge/Metro-EF4242?style=flat-square)
+
+**Highlights:** Native modules · Cross-platform · Metro config · API-driven
 
 </td>
 </tr>
@@ -305,17 +313,25 @@ Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**
 <td width="50%" valign="top">
 
 ### 🧠 [MindMap](https://github.com/hii24/MindMap)
-> Visual idea-mapping tool with drag-n-drop nodes
+> _Visual idea-mapping · custom SVG renderer_
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Canvas](https://img.shields.io/badge/Canvas-FF6F61?style=flat-square)
+A long-running **performance lab** disguised as a mind-mapping tool. Built around a hand-rolled SVG renderer where I iteratively tuned scroll virtualization and re-render strategy — the kind of perf debugging that taught me more about React's reconciler than any blog post.
+
+![React 18](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![SVG](https://img.shields.io/badge/SVG-FF6F61?style=flat-square&logo=svg&logoColor=fff) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=fff) ![RTL](https://img.shields.io/badge/RTL-E33332?style=flat-square&logo=testinglibrary&logoColor=fff)
+
+**Highlights:** Custom SVG layout · Scroll virtualization · Re-render tuning · Tested
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [github-search-app](https://github.com/hii24/github-search-app)
-> GitHub user discovery with REST API & responsive UI
+### 🔍 [GitHub Search](https://github.com/hii24/github-search-app)
+> _GitHub explorer · UX micro-details_
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000) ![REST](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+Lightweight GitHub user/repo explorer over the public REST API. Small surface, **lots of UX micro-details** — debounced queries, optimistic UI, accessible keyboard navigation, cached responses. The kind of project where every 50ms matters.
+
+![React 18](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=fff) ![A11y](https://img.shields.io/badge/A11y-005A9C?style=flat-square&logo=accessibility&logoColor=fff)
+
+**Highlights:** Debounced search · A11y-first · Optimistic states · Response caching
 
 </td>
 </tr>
@@ -323,17 +339,25 @@ Based in **Germany 🇩🇪**. 5+ years across **FinTech · HealthTech · SaaS**
 <td width="50%" valign="top">
 
 ### ⚙️ [HeliumSoft](https://github.com/hii24/HeliumSoft)
-> Software cost estimation platform — production-tested
+> _RN architecture · gesture-driven UX_
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+React Native app architected around **Redux Toolkit + Reanimated 3 + react-native-svg** — exploring gesture-driven UX, centralized state machines, and SVG-based custom illustrations. The stack you reach for when "simple useState" stops scaling and you actually need an architecture.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=fff) ![Reanimated](https://img.shields.io/badge/Reanimated_3-001A72?style=flat-square&logo=react&logoColor=fff) ![SVG](https://img.shields.io/badge/SVG-FF6F61?style=flat-square&logo=svg&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+
+**Highlights:** Gesture-driven UI · Centralized state · Custom SVG · Multi-feature flow
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [botForPrompt](https://github.com/hii24/botForPrompt)
-> AI prompt-engineering bot for automated workflows
+### 🤖 [Prompt Bot](https://github.com/hii24/botForPrompt)
+> _Discord ↔ Midjourney automation pipeline_
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff)
+**AI-workflow automation bot** that streams curated prompts from a Discord channel into Midjourney's image-gen pipeline. Started as a personal hack to iterate on prompt engineering at speed — eventually seeded my broader **Claude Code + n8n + MCP** automation setup.
+
+![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff) ![Midjourney](https://img.shields.io/badge/Midjourney-000?style=flat-square&logo=midjourney&logoColor=fff) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff) ![Automation](https://img.shields.io/badge/Automation-00C853?style=flat-square)
+
+**Highlights:** Event-driven bot · AI workflow integration · Prompt automation · MCP precursor
 
 </td>
 </tr>
